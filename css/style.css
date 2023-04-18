@@ -1,0 +1,113 @@
+*{
+margin:0;
+padding:0;
+}
+.main_container2{
+	width:90%;
+	height: 100vh;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	
+
+}
+.badges{
+	
+	
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	box-shadow: 2px 4px 18px green;	
+	}
+.badges a{
+	position:relative;
+	background-color:blue;
+	border-radius:4px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+}
+.badges span{
+	border-radius:10px;
+	color:blue;
+	background-color:red;
+	margin: -5px;
+    top: -27px;
+    position: relative;
+    margin-top: 10px;
+	width: 11px;
+    height: 11px;
+	
+
+}
+.badges1{
+	
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center; 
+box-shadow: 2px 4px 18px blue;		
+	}
+.badges1 a{
+	position:relative;
+	background-color:blue;
+	border-radius:1px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+	
+}
+.badges1 span{
+	border-radius:5px;
+	color:white;
+	background-color:red;
+	margin: -10px;
+    top: -19px;
+    position: relative;
+    margin-top: 10px;
+	width: 20px;
+    height: 19px;
+	
+
+}
+.badges2{
+	
+	
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center; 
+box-shadow: 2px 4px 18px red;		
+	}
+.badges2 a{
+	position:relative;
+	background-color:blue;
+	border-radius:4px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+	
+}
+.badges2 span{
+	border-radius:5px;
+	color:white;
+	background-color:red;
+	margin: -11px;
+    top: -27px;
+    position: relative;
+    margin-top: 10px;
+	width: 20px;
+    height: 19px;
+	
+
+}
